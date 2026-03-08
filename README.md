@@ -24,13 +24,13 @@ All from one neat CLI.
 ## 📦 Install
 
 ```bash
-npm install -g @rshandilya-02/directory_manager
+npm install -g @rshandilya-02/dirmanager
 ```
 
 Or run instantly:
 
 ```bash
-npx @rshandilya-02/directory_manager
+npx @rshandilya-02/dirmanager
 ```
 
 ---
@@ -40,13 +40,13 @@ npx @rshandilya-02/directory_manager
 ### List files
 
 ```bash
-directory_manager -l
+dirmanager -l
 ```
 
 or
 
 ```bash
-directory_manager --ls ./folder
+dirmanager --ls ./folder
 ```
 
 ---
@@ -54,7 +54,7 @@ directory_manager --ls ./folder
 ### Create directory
 
 ```bash
-directory_manager --mkdir myFolder
+dirmanager --mkdir myFolder
 ```
 
 ---
@@ -62,7 +62,7 @@ directory_manager --mkdir myFolder
 ### Create file
 
 ```bash
-directory_manager --touch hello.txt
+dirmanager --touch hello.txt
 ```
 
 ---
