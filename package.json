@@ -7,19 +7,25 @@
     "@types/node": "^25.3.5",
     "typescript": "^5.9.3"
   },
-  "name": "cli",
+  "name": "@rshandilya-02/directory_manager",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
   "bin": {
     "dirmanager": "./dist/index.js"
   },
+  "keywords": [
+    "cli",
+    "npmtool"
+  ],
+  "repository": "https://github.com/rshandilya-02/directory_manager",
+  "homepage": "https://github.com/rshandilya-02/directory_manager#readme",
   "scripts": {
     "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rishabh Shandilya",
   "license": "ISC",
   "type": "commonjs"
 }
