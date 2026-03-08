@@ -24,13 +24,13 @@ All from one neat CLI.
 ## 📦 Install
 
 ```bash
-npm install -g @rshandilya-02/dirmanager
+npm install -g @rshandilya/dirmanager
 ```
 
 Or run instantly:
 
 ```bash
-npx @rshandilya-02/dirmanager
+npx @rshandilya/dirmanager
 ```
 
 ---
