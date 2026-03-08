@@ -24,8 +24,10 @@
     "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "Rishabh Shandilya",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "publishConfig": {
+  "access": "public"
+}
 }
